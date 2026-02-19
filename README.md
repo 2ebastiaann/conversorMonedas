@@ -16,11 +16,8 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Demostración de Funciones](#demostración-de-funciones)
-- [Acceso al Proyecto](#acceso-al-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-- [Licencia](#licencia)
-
+- [Tecnologías Utilizadas](#tecnologías-Utilizadas)
+- 
 ---
 
 ## Descripción del Proyecto
