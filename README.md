@@ -17,7 +17,6 @@
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Demostración de Funciones](#demostración-de-funciones)
 - [Tecnologías Utilizadas](#tecnologías-Utilizadas)
-- 
 ---
 
 ## Descripción del Proyecto
@@ -51,7 +50,7 @@ El proyecto se encuentra en **estado completo** y funcional, listo para ser ejec
 <img width="593" height="231" alt="image" src="https://github.com/user-attachments/assets/41ac5588-19ac-4fb4-a240-739078adb072" />
 
 
-**Tecnologías Utilizadas**
+## Tecnologías Utilizadas
 
 Java 17
 Biblioteca Gson 2.10.1
